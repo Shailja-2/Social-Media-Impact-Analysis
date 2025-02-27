@@ -1,4 +1,4 @@
-# **Social Media and Mental Health Analysis**  
+# **Social Media Impact Analysis**  
 
 ## **Introduction**  
 This project analyzes the impact of social media usage on mental health using **Python, Pandas, NumPy, and Matplotlib**. It explores patterns in social media consumption, gender-based and age-group insights, stress levels, therapy trends, and platform preferences.  
